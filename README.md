@@ -35,3 +35,58 @@ A passionate Full Stack Developer and Fourth Year B.Tech Information Technology 
 </p>
 
 ---
+## 🚀 Featured Projects
+
+### 🍔 Feasto – MERN Food Delivery Platform
+
+- Full Stack MERN application
+- JWT Authentication
+- Razorpay Payment Integration
+- Cloudinary Image Uploads
+- Admin Dashboard
+
+🔗 **Live:** https://feasto-frontend-qt0n.onrender.com
+
+📂 **Repository:** https://github.com/AyushKumar-12345/Feasto
+
+---
+
+### 🏡 StayNest – Accommodation Booking Platform
+
+- Airbnb-inspired booking platform
+- Passport.js Authentication
+- Razorpay Payments
+- Cloudinary Integration
+- Reviews & Property Listings
+
+🔗 **Live:** https://staynest-dnrm.onrender.com
+
+📂 **Repository:** https://github.com/AyushKumar-12345/StayNest
+
+---
+
+### 🏠 Smart House Price Predictor
+
+- Machine Learning Web Application
+- XGBoost Regression Model
+- Flask Backend
+- Interactive Prediction Dashboard
+
+🔗 **Live:** https://smarthousepricepredictor.onrender.com
+
+📂 **Repository:** https://github.com/AyushKumar-12345/SmartHousePricePredictor
+
+---
+
+### 🌐 Personal Portfolio
+
+- React + TypeScript + Tailwind CSS
+- Framer Motion Animations
+- Responsive Design
+- Project Showcase
+
+🔗 **Live:** https://ayush-portfolio-3yan.onrender.com
+
+📂 **Repository:** https://github.com/AyushKumar-12345/ayush-portfolio
+
+---
