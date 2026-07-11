@@ -164,3 +164,34 @@ I'm always interested in learning, building impactful software, and collaboratin
 ⭐ If you like my work, feel free to explore my repositories or connect with me on LinkedIn.
 
 </div>
+---
+
+<div align="center">
+
+## ⭐ Thanks for Visiting!
+
+Thank you for taking the time to explore my GitHub profile.
+
+I enjoy building scalable software, solving challenging problems, and continuously improving my skills in **Full Stack Development**, **Data Structures & Algorithms**, and **Machine Learning**.
+
+If you're interested in collaborating or discussing opportunities, feel free to connect with me.
+
+<br>
+
+<a href="mailto:ayushkumardandapat200@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ayush-kumar-97326636a/">
+<img src="https://img.shields.io/badge/LinkedIn-Ayush_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://ayush-portfolio-3yan.onrender.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<br><br>
+
+### 🚀 "Always learning. Always building."
+
+</div>
