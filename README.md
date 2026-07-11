@@ -90,3 +90,20 @@ A passionate Full Stack Developer and Fourth Year B.Tech Information Technology 
 📂 **Repository:** https://github.com/AyushKumar-12345/ayush-portfolio
 
 ---
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AyushKumar-12345&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKumar-12345&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=AyushKumar-12345&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
