@@ -132,6 +132,17 @@ A passionate Full Stack Developer and Fourth Year B.Tech Information Technology 
 - Sigma 10.0 – Data Structures & Algorithms in Java
 
 ---
+## 🌟 Areas of Interest
+
+- 💻 Full Stack Web Development
+- ☕ Data Structures & Algorithms (Java)
+- 🤖 Machine Learning
+- 🌐 REST API Development
+- 🗄️ Database Design
+- ☁️ Cloud Deployment
+- 🧩 Problem Solving
+
+---
 ## 📫 Connect with Me
 
 <p align="left">
