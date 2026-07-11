@@ -132,3 +132,26 @@ A passionate Full Stack Developer and Fourth Year B.Tech Information Technology 
 - Sigma 10.0 – Data Structures & Algorithms in Java
 
 ---
+## 📫 Connect with Me
+
+<p align="left">
+
+<a href="mailto:ayushkumardandapat200@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ayush-kumar-97326636a/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AyushKumar-12345">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://ayush-portfolio-3yan.onrender.com">
+<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</p>
+
+---
