@@ -107,3 +107,28 @@ A passionate Full Stack Developer and Fourth Year B.Tech Information Technology 
 </p>
 
 ---
+## 🏆 Coding Profiles
+
+<p align="left">
+
+<a href="https://leetcode.com/u/ayushkumardandapat/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-160%2B%20Problems-orange?logo=leetcode&logoColor=white" />
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/ayushkumardcypg/" target="_blank">
+<img src="https://img.shields.io/badge/GeeksforGeeks-50%2B%20Problems-darkgreen?logo=geeksforgeeks&logoColor=white" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/ayushkumardanda1" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=hackerrank&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+## 📜 Certification
+
+- Sigma 10.0 – Data Structures & Algorithms in Java
+
+---
