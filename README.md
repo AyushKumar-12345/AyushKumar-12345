@@ -26,3 +26,12 @@ A passionate Full Stack Developer and Fourth Year B.Tech Information Technology 
 - 📍 Bhubaneswar, Odisha, India
 
 ---
+## 💻 Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nodejs,express,mongodb,html,css,tailwind,git,github,vscode&perline=7" />
+
+</p>
+
+---
