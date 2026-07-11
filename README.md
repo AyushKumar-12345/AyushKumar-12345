@@ -155,3 +155,12 @@ A passionate Full Stack Developer and Fourth Year B.Tech Information Technology 
 </p>
 
 ---
+<div align="center">
+
+## Thanks for visiting my profile! 👋
+
+I'm always interested in learning, building impactful software, and collaborating on meaningful projects.
+
+⭐ If you like my work, feel free to explore my repositories or connect with me on LinkedIn.
+
+</div>
