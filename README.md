@@ -14,7 +14,7 @@ A passionate <b>Full Stack MERN Developer</b> and <b>Fourth-Year B.Tech Informat
 
 <p>
 
-📄 <a href="https://raw.githubusercontent.com/AyushKumar-12345/AyushKumar-12345/main/Ayush_Kumar_SDE_Resume.pdf"><b>Resume</b></a> •
+📄 <a href="https://github.com/AyushKumar-12345/AyushKumar-12345/raw/main/Ayush_Kumar_SDE_Resume.pdf"><b>Resume</b></a> •
 🌐 <a href="https://ayush-portfolio-3yan.onrender.com"><b>Portfolio</b></a> •
 💼 <a href="https://www.linkedin.com/in/ayush-kumar-97326636a/"><b>LinkedIn</b></a> •
 💻 <a href="https://github.com/AyushKumar-12345"><b>GitHub</b></a>
@@ -156,19 +156,29 @@ https://github.com/AyushKumar-12345/ayush-portfolio
 
 # 🏆 Coding Profiles
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center" width="350">
+
+### 🟠 LeetCode
 
 <a href="https://leetcode.com/u/ayushkumardandapat/">
-<img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/100%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<br><br>
+</td>
+
+<td align="center" width="350">
+
+### 🟢 GeeksforGeeks
 
 <a href="https://www.geeksforgeeks.org/profile/ayushkumardcypg/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-100%2B%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://img.shields.io/badge/100%2B%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -176,7 +186,7 @@ https://github.com/AyushKumar-12345/ayush-portfolio
 
 - 📜 **Sigma 10.0 – Data Structures & Algorithms in Java** *(Apna College)*
 
-  📄 **Certificate:** [View Certificate](https://raw.githubusercontent.com/AyushKumar-12345/AyushKumar-12345/main/Sigma_10_DSA_Java_Certificate.pdf)
+  📄 **Certificate:** [View Certificate](https://github.com/AyushKumar-12345/AyushKumar-12345/raw/main/Sigma_10_DSA_Java_Certificate.pdf)
 ---
 # 🌟 Areas of Interest
 
