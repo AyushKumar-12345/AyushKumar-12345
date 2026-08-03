@@ -2,33 +2,43 @@
 
 # Hi 👋, I'm Ayush Kumar
 
-### Full Stack Developer (MERN) | Java | AI/ML Enthusiast
+### Software Engineer | Full Stack MERN Developer | Java | AI/ML Enthusiast
 
 <p>
-A passionate Full Stack Developer and Fourth Year B.Tech Information Technology student at <b>IIIT Bhubaneswar</b>. I enjoy building scalable web applications, solving Data Structures & Algorithms in Java, and exploring Machine Learning to create real-world solutions.
+A passionate Full Stack MERN Developer and fourth-year B.Tech Information Technology student at <b>IIIT Bhubaneswar</b>. I enjoy building scalable web applications, solving Data Structures & Algorithms in Java, and exploring Machine Learning to build practical software solutions.
 </p>
 
 <p>
 🎯 Currently seeking Software Development Engineer (SDE) Internship and Full-Time Opportunities.
 </p>
 
+<p>
+
+📄 <a href="YOUR_RESUME_LINK_HERE"><b>Resume</b></a> •
+🌐 <a href="https://ayush-portfolio-3yan.onrender.com"><b>Portfolio</b></a> •
+💼 <a href="https://www.linkedin.com/in/ayush-kumar-97326636a/"><b>LinkedIn</b></a> •
+💻 <a href="https://github.com/AyushKumar-12345"><b>GitHub</b></a>
+
+</p>
+
 </div>
 
 ---
-
 ## 🚀 About Me
 
-- 🎓 B.Tech Information Technology @ IIIT Bhubaneswar
-- 💻 Full Stack MERN Developer
-- 🌱 Currently learning Advanced Full Stack Development & Machine Learning
-- 📚 Strong interest in Data Structures & Algorithms using Java
-- 🤝 Open to Software Development Internship & Full-Time Roles
+- 🎓 B.Tech in Information Technology at **IIIT Bhubaneswar** (2023–2027)
+- 💻 Full Stack MERN Developer passionate about building scalable and user-friendly web applications
+- ☕ Strong foundation in **Data Structures & Algorithms using Java**
+- 🤖 Exploring **Machine Learning** and AI-driven solutions
+- 🌱 Continuously learning modern web technologies and software engineering best practices
+- 🤝 Open to **Software Development Engineer (SDE) Internships** and **Full-Time Opportunities**
 - 📍 Bhubaneswar, Odisha, India
 
 ---
+
 ## 💻 Tech Stack
 
-<p align="left">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nodejs,express,mongodb,html,css,tailwind,git,github,vscode&perline=7" />
 
@@ -39,55 +49,87 @@ A passionate Full Stack Developer and Fourth Year B.Tech Information Technology 
 
 ### 🍔 Feasto – MERN Food Delivery Platform
 
-- Full Stack MERN application
-- JWT Authentication
-- Razorpay Payment Integration
-- Cloudinary Image Uploads
-- Admin Dashboard
+A production-ready full-stack food delivery platform built using the MERN stack with secure authentication, REST APIs, online payments, and an admin dashboard.
 
-🔗 **Live:** https://feasto-frontend-qt0n.onrender.com
+**Key Features**
+- 🔐 JWT Authentication & Role-Based Authorization
+- 💳 Razorpay Payment Integration
+- ☁️ Cloudinary Image Upload & Management
+- 🛒 Shopping Cart & Order Management
+- 📦 Admin Dashboard
+- 🌐 REST API Development
+- 📱 Fully Responsive User Interface
 
-📂 **Repository:** https://github.com/AyushKumar-12345/Feasto
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, JavaScript, JWT, Razorpay, Cloudinary
+
+🌐 **Live Demo:**  
+https://feasto-frontend-qt0n.onrender.com
+
+📂 **GitHub Repository:**  
+https://github.com/AyushKumar-12345/Feasto
 
 ---
 
 ### 🏡 StayNest – Accommodation Booking Platform
 
-- Airbnb-inspired booking platform
-- Passport.js Authentication
-- Razorpay Payments
-- Cloudinary Integration
-- Reviews & Property Listings
+A full-stack accommodation booking platform inspired by Airbnb, built using the MVC architecture with secure authentication, property management, reviews, and image uploads.
 
-🔗 **Live:** https://staynest-dnrm.onrender.com
+**Key Features**
+- 🔐 Passport.js Authentication
+- 🏠 Property Listings & Booking
+- ⭐ Reviews & Ratings
+- ☁️ Cloudinary Image Uploads
+- 🏗️ MVC Architecture
+- 📱 Responsive Design
 
-📂 **Repository:** https://github.com/AyushKumar-12345/StayNest
+**Tech Stack:** Node.js, Express.js, MongoDB, EJS, Bootstrap, Passport.js, Cloudinary
+
+🌐 **Live Demo:**  
+https://staynest-dnrm.onrender.com
+
+📂 **GitHub Repository:**  
+https://github.com/AyushKumar-12345/StayNest
 
 ---
 
 ### 🏠 Smart House Price Predictor
 
-- Machine Learning Web Application
-- XGBoost Regression Model
-- Flask Backend
-- Interactive Prediction Dashboard
+A machine learning web application that predicts house prices using regression techniques through an interactive Flask web interface.
 
-🔗 **Live:** https://smarthousepricepredictor.onrender.com
+**Key Features**
+- 🤖 Machine Learning Model
+- 📊 Data Preprocessing & Feature Engineering
+- 📈 House Price Prediction
+- 🌐 Flask Web Application
 
-📂 **Repository:** https://github.com/AyushKumar-12345/SmartHousePricePredictor
+**Tech Stack:** Python, Flask, Scikit-learn, Pandas, NumPy
+
+🌐 **Live Demo:**  
+https://smarthousepricepredictor.onrender.com
+
+📂 **GitHub Repository:**  
+https://github.com/AyushKumar-12345/SmartHousePricePredictor
 
 ---
 
 ### 🌐 Personal Portfolio
 
-- React + TypeScript + Tailwind CSS
-- Framer Motion Animations
-- Responsive Design
-- Project Showcase
+A modern developer portfolio built to showcase my projects, technical skills, resume, certifications, and contact information.
 
-🔗 **Live:** https://ayush-portfolio-3yan.onrender.com
+**Key Features**
+- 🎨 Modern UI with Framer Motion
+- 📱 Fully Responsive Design
+- 📄 Resume Download
+- 📂 Project Showcase
+- 📧 Contact Form with EmailJS
 
-📂 **Repository:** https://github.com/AyushKumar-12345/ayush-portfolio
+**Tech Stack:** React.js, TypeScript, Tailwind CSS, Framer Motion, EmailJS
+
+🌐 **Live Demo:**  
+https://ayush-portfolio-3yan.onrender.com
+
+📂 **GitHub Repository:**  
+https://github.com/AyushKumar-12345/ayush-portfolio
 
 ---
 ## 📊 GitHub Statistics
@@ -107,31 +149,31 @@ A passionate Full Stack Developer and Fourth Year B.Tech Information Technology 
 </p>
 
 ---
+
 ## 🏆 Coding Profiles
 
-<p align="left">
+<p align="center">
 
 <a href="https://leetcode.com/u/ayushkumardandapat/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-160%2B%20Problems-orange?logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://www.geeksforgeeks.org/profile/ayushkumardcypg/" target="_blank">
-<img src="https://img.shields.io/badge/GeeksforGeeks-50%2B%20Problems-darkgreen?logo=geeksforgeeks&logoColor=white" />
-</a>
-
-<a href="https://www.hackerrank.com/profile/ayushkumardanda1" target="_blank">
-<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=hackerrank&logoColor=white" />
+<img src="https://img.shields.io/badge/GeeksforGeeks-100%2B%20Problems-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## 📜 Certification
+## 📜 Certifications
 
-- Sigma 10.0 – Data Structures & Algorithms in Java
+- ✅ Sigma 10.0 – Data Structures & Algorithms with Java (Apna College)
 
 ---
+
 ## 🌟 Areas of Interest
 
 - 💻 Full Stack Web Development
@@ -145,7 +187,7 @@ A passionate Full Stack Developer and Fourth Year B.Tech Information Technology 
 ---
 ## 📫 Connect with Me
 
-<p align="left">
+<p align="center">
 
 <a href="mailto:ayushkumardandapat200@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -163,46 +205,26 @@ A passionate Full Stack Developer and Fourth Year B.Tech Information Technology 
 <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
+<a href="YOUR_RESUME_LINK_HERE">
+<img src="https://img.shields.io/badge/Resume-View_PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
 </p>
 
 ---
-<div align="center">
-
-## Thanks for visiting my profile! 👋
-
-I'm always interested in learning, building impactful software, and collaborating on meaningful projects.
-
-⭐ If you like my work, feel free to explore my repositories or connect with me on LinkedIn.
-
-</div>
----
 
 <div align="center">
 
-## ⭐ Thanks for Visiting!
+# ⭐ Thanks for Visiting!
 
 Thank you for taking the time to explore my GitHub profile.
 
-I enjoy building scalable software, solving challenging problems, and continuously improving my skills in **Full Stack Development**, **Data Structures & Algorithms**, and **Machine Learning**.
+I'm a **B.Tech Information Technology** student at **IIIT Bhubaneswar** with a strong interest in **Full Stack Web Development**, **Data Structures & Algorithms (Java)**, and **Machine Learning**.
 
-If you're interested in collaborating or discussing opportunities, feel free to connect with me.
+I enjoy building scalable software, solving challenging problems, and continuously learning modern technologies.
 
-<br>
+If you'd like to collaborate, discuss opportunities, or simply connect, feel free to reach out.
 
-<a href="mailto:ayushkumardandapat200@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ayush-kumar-97326636a/">
-<img src="https://img.shields.io/badge/LinkedIn-Ayush_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://ayush-portfolio-3yan.onrender.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<br><br>
-
-### 🚀 "Always learning. Always building."
+### 🚀 Always Learning • Always Building • Always Improving
 
 </div>
