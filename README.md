@@ -22,17 +22,6 @@ A passionate <b>Full Stack MERN Developer</b> and <b>Fourth-Year B.Tech Informat
 </p>
 
 </div>
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=AyushKumar-12345&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AyushKumar-12345&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
-
-</p>
 
 ---
 
@@ -169,13 +158,13 @@ https://github.com/AyushKumar-12345/ayush-portfolio
 
 <p align="center">
 
-<a href="https://leetcode.com/u/ayushkumardandapat/" target="_blank">
+<a href="https://leetcode.com/u/ayushkumardandapat/">
 <img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+<br><br>
 
-<a href="https://www.geeksforgeeks.org/profile/ayushkumardcypg/" target="_blank">
+<a href="https://www.geeksforgeeks.org/profile/ayushkumardcypg/">
 <img src="https://img.shields.io/badge/GeeksforGeeks-100%2B%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
