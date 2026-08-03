@@ -5,16 +5,16 @@
 ### Software Engineer | Full Stack MERN Developer | Java | AI/ML Enthusiast
 
 <p>
-A passionate Full Stack MERN Developer and fourth-year B.Tech Information Technology student at <b>IIIT Bhubaneswar</b>. I enjoy building scalable web applications, solving Data Structures & Algorithms in Java, and exploring Machine Learning to build practical software solutions.
+A passionate <b>Full Stack MERN Developer</b> and <b>Fourth-Year B.Tech Information Technology</b> student at <b>IIIT Bhubaneswar</b>. I enjoy building scalable web applications, solving Data Structures & Algorithms in Java, and exploring Machine Learning to create real-world software solutions.
 </p>
 
 <p>
-🎯 Currently seeking Software Development Engineer (SDE) Internship and Full-Time Opportunities.
+🎯 Currently seeking <b>Software Development Engineer (SDE)</b> Internship and Full-Time Opportunities.
 </p>
 
 <p>
 
-📄 <a href="YOUR_RESUME_LINK_HERE"><b>Resume</b></a> •
+📄 <a href="https://raw.githubusercontent.com/AyushKumar-12345/AyushKumar-12345/main/Ayush_Kumar_SDE_Resume.pdf"><b>Resume</b></a> •
 🌐 <a href="https://ayush-portfolio-3yan.onrender.com"><b>Portfolio</b></a> •
 💼 <a href="https://www.linkedin.com/in/ayush-kumar-97326636a/"><b>LinkedIn</b></a> •
 💻 <a href="https://github.com/AyushKumar-12345"><b>GitHub</b></a>
@@ -22,45 +22,58 @@ A passionate Full Stack MERN Developer and fourth-year B.Tech Information Techno
 </p>
 
 </div>
+<p align="center">
 
----
-## 🚀 About Me
+<img src="https://komarev.com/ghpvc/?username=AyushKumar-12345&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-- 🎓 B.Tech in Information Technology at **IIIT Bhubaneswar** (2023–2027)
-- 💻 Full Stack MERN Developer passionate about building scalable and user-friendly web applications
-- ☕ Strong foundation in **Data Structures & Algorithms using Java**
-- 🤖 Exploring **Machine Learning** and AI-driven solutions
-- 🌱 Continuously learning modern web technologies and software engineering best practices
-- 🤝 Open to **Software Development Engineer (SDE) Internships** and **Full-Time Opportunities**
-- 📍 Bhubaneswar, Odisha, India
-
----
-
-## 💻 Tech Stack
+</p>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nodejs,express,mongodb,html,css,tailwind,git,github,vscode&perline=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=AyushKumar-12345&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
 
 </p>
 
 ---
-## 🚀 Featured Projects
 
-### 🍔 Feasto – MERN Food Delivery Platform
+# 🚀 About Me
 
-A production-ready full-stack food delivery platform built using the MERN stack with secure authentication, REST APIs, online payments, and an admin dashboard.
+- 🎓 B.Tech in Information Technology @ IIIT Bhubaneswar (2023–2027)
+- 💻 Full Stack MERN Developer passionate about building scalable and user-friendly web applications
+- ☕ Strong foundation in Data Structures & Algorithms using Java
+- 🤖 Exploring Machine Learning and AI-driven solutions
+- 🌱 Continuously learning modern software engineering best practices
+- 🤝 Open to Software Development Engineer (SDE) Internship & Full-Time Opportunities
+- 📍 Bhubaneswar, Odisha, India
 
-**Key Features**
+---
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nodejs,express,mongodb,html,css,tailwind,bootstrap,git,github,vscode&perline=8" />
+
+</p>
+
+---
+
+# 💼 Featured Projects
+
+## 🍔 Feasto – MERN Food Delivery Platform
+
+A production-ready full-stack food delivery platform built using the MERN stack with secure authentication, online payments, cloud image management, and an admin dashboard.
+
+### ✨ Key Features
+
 - 🔐 JWT Authentication & Role-Based Authorization
 - 💳 Razorpay Payment Integration
 - ☁️ Cloudinary Image Upload & Management
 - 🛒 Shopping Cart & Order Management
 - 📦 Admin Dashboard
-- 🌐 REST API Development
 - 📱 Fully Responsive User Interface
+- 🌐 RESTful API Development
 
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, JavaScript, JWT, Razorpay, Cloudinary
+**Tech Stack:** React.js • Node.js • Express.js • MongoDB • JavaScript • JWT • Razorpay • Cloudinary
 
 🌐 **Live Demo:**  
 https://feasto-frontend-qt0n.onrender.com
@@ -70,19 +83,19 @@ https://github.com/AyushKumar-12345/Feasto
 
 ---
 
-### 🏡 StayNest – Accommodation Booking Platform
+## 🏡 StayNest – Accommodation Booking Platform
 
-A full-stack accommodation booking platform inspired by Airbnb, built using the MVC architecture with secure authentication, property management, reviews, and image uploads.
+A full-stack accommodation booking platform inspired by Airbnb featuring secure authentication, property management, reviews, and cloud-based image storage.
 
-**Key Features**
+### ✨ Key Features
+
 - 🔐 Passport.js Authentication
-- 🏠 Property Listings & Booking
+- 🏠 Property Listings & Management
 - ⭐ Reviews & Ratings
 - ☁️ Cloudinary Image Uploads
-- 🏗️ MVC Architecture
 - 📱 Responsive Design
 
-**Tech Stack:** Node.js, Express.js, MongoDB, EJS, Bootstrap, Passport.js, Cloudinary
+**Tech Stack:** Node.js • Express.js • MongoDB • EJS • Bootstrap • Passport.js • Cloudinary
 
 🌐 **Live Demo:**  
 https://staynest-dnrm.onrender.com
@@ -92,17 +105,18 @@ https://github.com/AyushKumar-12345/StayNest
 
 ---
 
-### 🏠 Smart House Price Predictor
+## 🏠 Smart House Price Predictor
 
-A machine learning web application that predicts house prices using regression techniques through an interactive Flask web interface.
+A machine learning web application that predicts house prices using regression techniques through an interactive web interface.
 
-**Key Features**
+### ✨ Key Features
+
 - 🤖 Machine Learning Model
 - 📊 Data Preprocessing & Feature Engineering
 - 📈 House Price Prediction
 - 🌐 Flask Web Application
 
-**Tech Stack:** Python, Flask, Scikit-learn, Pandas, NumPy
+**Tech Stack:** Python • Flask • Scikit-learn • Pandas • NumPy
 
 🌐 **Live Demo:**  
 https://smarthousepricepredictor.onrender.com
@@ -112,18 +126,19 @@ https://github.com/AyushKumar-12345/SmartHousePricePredictor
 
 ---
 
-### 🌐 Personal Portfolio
+## 🌐 Personal Portfolio
 
-A modern developer portfolio built to showcase my projects, technical skills, resume, certifications, and contact information.
+A modern developer portfolio showcasing my projects, technical skills, resume, certifications, and contact information.
 
-**Key Features**
+### ✨ Key Features
+
 - 🎨 Modern UI with Framer Motion
 - 📱 Fully Responsive Design
 - 📄 Resume Download
 - 📂 Project Showcase
-- 📧 Contact Form with EmailJS
+- 📬 Contact Section
 
-**Tech Stack:** React.js, TypeScript, Tailwind CSS, Framer Motion, EmailJS
+**Tech Stack:** React.js • TypeScript • Tailwind CSS • Framer Motion • EmailJS
 
 🌐 **Live Demo:**  
 https://ayush-portfolio-3yan.onrender.com
@@ -132,7 +147,7 @@ https://ayush-portfolio-3yan.onrender.com
 https://github.com/AyushKumar-12345/ayush-portfolio
 
 ---
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -150,7 +165,7 @@ https://github.com/AyushKumar-12345/ayush-portfolio
 
 ---
 
-## 🏆 Coding Profiles
+# 🏆 Coding Profiles
 
 <p align="center">
 
@@ -158,39 +173,41 @@ https://github.com/AyushKumar-12345/ayush-portfolio
 <img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.geeksforgeeks.org/profile/ayushkumardcypg/" target="_blank">
-<img src="https://img.shields.io/badge/GeeksforGeeks-100%2B%20Problems-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-100%2B%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## 📜 Certifications
+# 🏅 Certifications
 
-- ✅ Sigma 10.0 – Data Structures & Algorithms with Java (Apna College)
+- 📜 **Sigma 10.0 – Data Structures & Algorithms in Java** *(Apna College)*
 
+  📄 **Certificate:** [View Certificate](https://raw.githubusercontent.com/AyushKumar-12345/AyushKumar-12345/main/Sigma_10_DSA_Java_Certificate.pdf)
 ---
-
-## 🌟 Areas of Interest
+# 🌟 Areas of Interest
 
 - 💻 Full Stack Web Development
 - ☕ Data Structures & Algorithms (Java)
-- 🤖 Machine Learning
+- 🤖 Machine Learning & AI
 - 🌐 REST API Development
 - 🗄️ Database Design
 - ☁️ Cloud Deployment
-- 🧩 Problem Solving
+- ⚙️ Backend Development
+- 🚀 Software Engineering
 
 ---
-## 📫 Connect with Me
+
+# 📫 Connect With Me
 
 <p align="center">
 
 <a href="mailto:ayushkumardandapat200@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ayush-kumar-97326636a/">
@@ -205,8 +222,8 @@ https://github.com/AyushKumar-12345/ayush-portfolio
 <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="YOUR_RESUME_LINK_HERE">
-<img src="https://img.shields.io/badge/Resume-View_PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+<a href="https://raw.githubusercontent.com/AyushKumar-12345/AyushKumar-12345/main/Ayush_Kumar_SDE_Resume.pdf">
+<img src="https://img.shields.io/badge/Resume-E34F26?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
 </p>
@@ -217,14 +234,14 @@ https://github.com/AyushKumar-12345/ayush-portfolio
 
 # ⭐ Thanks for Visiting!
 
-Thank you for taking the time to explore my GitHub profile.
+Thank you for taking the time to visit my GitHub profile.
 
-I'm a **B.Tech Information Technology** student at **IIIT Bhubaneswar** with a strong interest in **Full Stack Web Development**, **Data Structures & Algorithms (Java)**, and **Machine Learning**.
+I enjoy building scalable software, solving challenging problems, and continuously improving my skills in **Full Stack Development**, **Data Structures & Algorithms**, and **Machine Learning**.
 
-I enjoy building scalable software, solving challenging problems, and continuously learning modern technologies.
+I'm always open to collaborating on impactful projects, contributing to open-source, and exploring exciting Software Engineering opportunities.
 
-If you'd like to collaborate, discuss opportunities, or simply connect, feel free to reach out.
+If my work interests you, feel free to connect with me or explore my repositories.
 
-### 🚀 Always Learning • Always Building • Always Improving
+### 🚀 *Always Learning • Always Building • Always Improving*
 
 </div>
