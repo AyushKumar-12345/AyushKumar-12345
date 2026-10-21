@@ -3,35 +3,49 @@
 # 👨‍💻 Hi, I'm Ayush Kumar
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Engineer;LangGraph+%26+Agentic+AI+Developer;Java+DSA+Problem+Solver+(200%2B+Solved);Pre-Final+Year+IT+%40+IIIT+Bhubaneswar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Final-Year+B.Tech+IT+%40+IIIT+Bhubaneswar+(Expected+May+2026);Full-Stack+Software+Engineer+(Java%2C+MERN%2C+Python);Applied+Generative+AI+%26+LLM+Systems+(LangGraph);Java+DSA+Problem+Solver+(200%2B+Solved);4+Production+Systems+Containerized+(Docker%2C+CI%2FCD)" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <b>Pre-Final Year B.Tech Information Technology Student @ IIIT Bhubaneswar</b><br/>
-  Passionate about architecting high-performance web systems, bounded autonomous AI workflows (LangGraph), and solving complex algorithmic challenges in Java.
+  <b>Final-Year B.Tech Information Technology Student @ IIIT Bhubaneswar (Expected May 2026)</b><br/>
+  Passionate about architecting scalable full-stack web applications, autonomous agent workflows (LangGraph), and high-performance backend systems with Java DSA rigor.
 </p>
 
 <p align="center">
-  <a href="https://ayush-portfolio-3yan.onrender.com"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ayush-kumar-97326636a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://ayush-portfolio-3yan.onrender.com"><img src="https://img.shields.io/badge/Live_Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://github.com/AyushKumar-12345/AyushKumar-12345/raw/main/Ayush_Kumar_Resume.pdf"><img src="https://img.shields.io/badge/Download_Resume_PDF-00C7B7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ayush-kumar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/ayushkumardandapat/"><img src="https://img.shields.io/badge/LeetCode-200%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   <a href="https://www.geeksforgeeks.org/profile/ayushkumardcypg/"><img src="https://img.shields.io/badge/GeeksforGeeks-Active-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
   <a href="mailto:ayushkumardandapat200@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-🎯 *Actively seeking **Software Development Engineer (SDE)** Internship & Full-Time Opportunities.*
+🎯 *Actively seeking **Full-Time Software Development Engineer (SDE)** and **Graduate Engineer** roles.*
 
 </div>
 
 ---
 
+```
+┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                       ENGINEERING DASHBOARD                                            │
+├────────────────────────────┬────────────────────────────┬─────────────────────────┬────────────────────┤
+│     PRODUCTION SYSTEMS     │        JAVA DSA RIGOR      │     ACADEMIC RECORD     │   GENAI & AGENTS   │
+│    4 Systems Deployed      │    200+ Problems Solved    │   IIIT-Bh (CGPA: 7.48)  │ LangGraph • RAG    │
+│  (Docker • Render • CI/CD) │   (LeetCode & GFG In Java) │  Class X: 98.2% | XII: 88.6%│ pgvector • Gemini  │
+└────────────────────────────┴────────────────────────────┴─────────────────────────┴────────────────────┘
+```
+
+---
+
 ## 🚀 About Me
 
-- 🎓 **Education:** B.Tech in Information Technology at **IIIT Bhubaneswar** (2023–2027) | CGPA: **7.48**
-- 💻 **Full-Stack Engineering:** MERN Stack (React 18, Node.js, Express.js, MongoDB), FastAPI, MVC & Microservices architectures, Docker containerization.
-- 🤖 **Agentic AI & Machine Learning:** LangGraph StateGraph orchestration, PostgreSQL 16 + `pgvector` dense vector search, RAG pipelines, Split Conformal Prediction, XGBoost regression.
-- ☕ **Algorithms & Problem Solving:** Solved **200+ DSA problems** in **Java** across LeetCode & GeeksforGeeks.
-- 🛡️ **Defensive Engineering:** Cryptographic fintech verification (Razorpay HMAC-SHA256), AST SQL query guardrails (`sqlglot`), JWT & RBAC security.
+- 🎓 **Education:** Final-Year B.Tech in Information Technology at **IIIT Bhubaneswar** (Expected May 2026) | **CGPA: 7.48**
+- 🏫 **Schooling:** Delhi Public School, Nalco Nagar, Angul — Class X: **98.2%** | Class XII: **88.6%** (2020 – 2022)
+- 💻 **Full-Stack Engineering:** Java (Core Java, OOP, Collections), JavaScript (ES6+), Python, TypeScript, SQL, React 18, Node.js, Express.js, FastAPI, Flask, Vite, Tailwind CSS, Bootstrap 5.
+- 🤖 **GenAI & Autonomous Agents:** LangGraph StateGraph orchestration ($\le 4$ bounded reasoning steps), PostgreSQL 16 + `pgvector` hybrid semantic search (HNSW indexing, 0.45 cosine cutoff), RAG pipelines, Scikit-learn, XGBoost, Split Conformal Prediction (90% confidence), Google Gemini API.
+- ☕ **DSA Rigor:** Solved **200+ problems** in **Java** across LeetCode & GeeksforGeeks.
+- 🛠️ **DevOps & Security:** Docker, Docker Compose, Git, GitHub Actions (CI/CD), Linux, Render, Cloudinary; Razorpay HMAC-SHA256 signature verification, `sqlglot` AST SQL guardrails, JWT role-based access control (RBAC).
 - 📍 **Location:** Bhubaneswar, Odisha, India
 
 ---
@@ -86,21 +100,42 @@
 
 ---
 
-## 💼 Featured Production Projects
+## 💼 Featured Production Systems
 
 <table>
 
-<!-- PROJECT 1: FEASTO -->
+<!-- PROJECT 1: AGENTIQ -->
 <tr>
 <td width="100%">
-<h3>🍔 1. Feasto — Production MERN Food Delivery & AI Concierge Platform</h3>
+<h3>🧠 1. AgentIQ — Enterprise Agentic RAG Platform</h3>
 
-> Full-stack food ordering platform featuring live driver GPS tracking, cryptographic Razorpay payment verification, an administrative operations dashboard, and a Google Gemini 3.0 conversational food concierge.
+> Enterprise agentic AI platform orchestrating bounded multi-step reasoning, grounded document retrieval with verifiable citations, and safe AST-parsed SQL analytics.
 
-- **Frontend & Real-Time:** React 18, Vite, Context API, responsive customer portal & administrative dashboard with real-time **Leaflet GPS** delivery mapping.
+- **Agentic State Machine:** LangGraph `StateGraph` workflow bounded to $N \le 4$ steps with deterministic fallback paths, execution timeouts, and sub-second retrieval latency.
+- **Dense Vector Search:** PostgreSQL 16 + **pgvector** dense vector search (HNSW indexing, 0.45 cosine cutoff) with source citations.
+- **5-Layer SQL Defense:** AST parsing via **sqlglot** (permitting single-statement `SELECT` on whitelisted tables), automated `LIMIT 50` clamping, and role-based access control (RBAC).
+- **Enterprise 3-Pane UI:** React 18, TypeScript, multi-stage Docker Compose containerization, and automated **GitHub Actions CI/CD** testing.
+- **Tech Stack:** `Python` • `FastAPI` • `LangGraph` • `PostgreSQL 16` • `pgvector` • `React 18` • `TypeScript` • `Docker Compose`
+
+<p>
+  <a href="https://agentiq-frontend.onrender.com"><b>🚀 Live Platform</b></a> • 
+  <a href="https://agentiq-backend-k8om.onrender.com/docs"><b>📑 Interactive Swagger Docs</b></a> • 
+  <a href="https://github.com/AyushKumar-12345/AgentIQ"><b>📦 GitHub Repository</b></a>
+</p>
+</td>
+</tr>
+
+<!-- PROJECT 2: FEASTO -->
+<tr>
+<td width="100%">
+<h3>🍔 2. Feasto — Production MERN Food Delivery & AI Concierge Platform</h3>
+
+> Production-grade food delivery ecosystem built with MERN architecture featuring decoupled customer and admin portals, real-time driver delivery tracking with Leaflet GPS, and a Google Gemini AI conversational food concierge.
+
+- **Real-Time GPS & UI:** React 18, Vite, responsive customer portal & admin management dashboard with real-time **Leaflet GPS** delivery mapping and persistent cart state.
 - **Fintech & Security:** Razorpay Payment Gateway integration with **HMAC-SHA256** cryptographic webhook signature verification and JWT role-based access control (RBAC).
-- **AI Concierge & CDN:** Google Gemini API dish recommendations, Cloudinary media CDN, and multi-container **Docker Compose** deployment with **GitHub Actions CI/CD**.
-- **Tech Stack:** `React 18` • `Node.js` • `Express.js` • `MongoDB Atlas` • `Razorpay` • `Gemini AI` • `Leaflet` • `Docker`
+- **AI Concierge & CDN:** Google Gemini API personalized dish recommendations, Cloudinary media CDN, and multi-container **Docker** deployment on Render.
+- **Tech Stack:** `React.js` • `Node.js` • `Express.js` • `MongoDB Atlas` • `Razorpay` • `Google Gemini API` • `Leaflet GPS` • `Docker`
 
 <p>
   <a href="https://feasto-frontend-qt0n.onrender.com"><b>🚀 Customer Portal</b></a> • 
@@ -110,16 +145,16 @@
 </td>
 </tr>
 
-<!-- PROJECT 2: STAYNEST -->
+<!-- PROJECT 3: STAYNEST -->
 <tr>
 <td width="100%">
-<h3>🏡 2. StayNest — Vacation Rental & Accommodation Marketplace</h3>
+<h3>🏡 3. StayNest — Accommodation Marketplace & Collision-Proof Booking Engine</h3>
 
-> Full-stack accommodation booking platform inspired by Airbnb featuring collision-proof calendar scheduling, server-side dynamic PDF invoice generation, and multi-image Cloudinary pipelines.
+> Full-stack accommodation booking platform adopting MVC architecture featuring collision-proof calendar scheduling, automated server-side PDF invoice generation, and hardened security.
 
-- **Architecture:** Model-View-Controller (MVC) architecture with full CRUD property listings, dynamic geolocation search filters, and user review moderation.
-- **Booking Engine:** Interactive blackout calendar validation eliminating double-booking, Razorpay checkout flow, and automated PDF invoice generation via **PDFKit**.
-- **Hardened Security:** Passport.js session authentication, Joi schema validation, Helmet HTTP headers, Mongo-sanitize, and Docker containerization.
+- **MVC Architecture:** Full CRUD property listings, dynamic geospatial search filters, and responsive UI built with Bootstrap 5.
+- **Booking Engine:** Interactive blackout calendar validation eliminating double-booking, Razorpay payment verification, and automated server-side PDF invoice generation via **PDFKit**.
+- **Hardened Security:** Passport.js session authentication, Joi input validation schemas, Helmet HTTP security headers, and MongoDB Atlas cloud storage.
 - **Tech Stack:** `Node.js` • `Express.js` • `MongoDB Atlas` • `EJS` • `Bootstrap 5` • `Cloudinary` • `Razorpay` • `PDFKit` • `Docker`
 
 <p>
@@ -129,42 +164,21 @@
 </td>
 </tr>
 
-<!-- PROJECT 3: SMART HOUSE PRICE PREDICTOR -->
+<!-- PROJECT 4: SMART HOUSE PRICE PREDICTOR -->
 <tr>
 <td width="100%">
-<h3>🏠 3. Smart House Price Predictor — California Property Valuation Engine</h3>
+<h3>🏠 4. Smart House Price Predictor — California Real Estate Valuation Engine</h3>
 
 > Mathematically grounded Machine Learning service delivering residential property valuation using an optimized XGBoost gradient-boosted ensemble ($R^2 = 83.93\%$) and distribution-free Split Conformal Prediction intervals.
 
-- **High-Accuracy Ensemble:** Tuned XGBoost regressor trained on 20,000+ California housing records ($R^2 = 0.8393$, $\text{MAPE} = 17.52\%$, $\text{MAE} = \$30,245$).
-- **Uncertainty Quantification:** Distribution-free **Split Conformal Prediction** guaranteeing **$90\%$ statistical coverage** ($\pm\$68,169$ confidence intervals), mitigating financial tail risk.
-- **Explainable AI (XAI) & DevOps:** Gain-based feature attribution telemetry, defensive Pydantic validation, low-latency (<20ms) **Flask REST API**, Docker, and **GitHub Actions CI**.
-- **Tech Stack:** `Python 3.12` • `Flask 3.1` • `XGBoost` • `Scikit-Learn` • `Pandas` • `NumPy` • `Docker` • `CI/CD`
+- **High-Accuracy Ensemble:** Tuned XGBoost regressor trained on 20,000+ California housing records ($R^2 = 83.93\%$, $\text{MAPE} = 17.52\%$, $\text{MAE} = \$30,245$).
+- **Uncertainty Quantification:** Distribution-free **Split Conformal Prediction** delivering mathematically guaranteed **$90\%$ confidence intervals** ($\pm\$68,169$), eliminating financial tail risk.
+- **Explainable AI (XAI) & DevOps:** Gain-based feature attribution telemetry, defensive input validation, low-latency ($<20\text{ms}$) **Flask REST API**, Docker containerization, and **GitHub Actions CI**.
+- **Tech Stack:** `Python` • `Flask` • `XGBoost` • `Scikit-learn` • `Pandas` • `NumPy` • `Docker` • `GitHub Actions CI`
 
 <p>
   <a href="https://smarthousepricepredictor.onrender.com"><b>🚀 Live Valuation Engine</b></a> • 
   <a href="https://github.com/AyushKumar-12345/SmartHousePricePredictor"><b>📦 GitHub Repository</b></a>
-</p>
-</td>
-</tr>
-
-<!-- PROJECT 4: AGENTIQ -->
-<tr>
-<td width="100%">
-<h3>🧠 4. AgentIQ — Agentic Enterprise Knowledge Platform</h3>
-
-> Full-stack enterprise AI knowledge platform orchestrating bounded multi-step reasoning, grounded document retrieval with verifiable citations, and safe AST-parsed SQL analytics.
-
-- **Agentic State Machine:** LangGraph `StateGraph` workflow bounded to $N \le 4$ steps with deterministic fallback paths, execution timeouts, and strict schema validation.
-- **Dense Vector Search:** PostgreSQL 16 + **pgvector** dense vector search (1536d/768d HNSW indexing, 0.45 cosine similarity cutoff) with chunk-level source citations (`[Doc: <name>, Page: <p>]`).
-- **5-Layer SQL Defense:** AST parsing via **sqlglot** (permitting only single-statement `SELECT` on whitelisted tables), automated `LIMIT 50` clamping, and database role isolation (`analytics_reader`).
-- **Modern 3-Pane UI:** React 18, TypeScript, Tailwind CSS, Lucide icons, multi-stage Docker Compose, and automated CI test suite (Pytest, Vitest, Ruff).
-- **Tech Stack:** `Python 3.12` • `FastAPI` • `LangGraph` • `PostgreSQL 16` • `pgvector` • `React 18` • `TypeScript` • `Docker Compose`
-
-<p>
-  <a href="https://agentiq-frontend.onrender.com"><b>🚀 Live Knowledge Workspace</b></a> • 
-  <a href="https://agentiq-backend-k8om.onrender.com/docs"><b>📑 Interactive Swagger Docs</b></a> • 
-  <a href="https://github.com/AyushKumar-12345/AgentIQ"><b>📦 GitHub Repository</b></a>
 </p>
 </td>
 </tr>
@@ -199,10 +213,11 @@
 
 ## 🏆 Algorithmic Achievements & Certifications
 
-- 🟠 **LeetCode:** Solved **200+ Problems** in Java (Arrays, Two Pointers, Trees, Graphs, Dynamic Programming) $\to$ [leetcode.com/u/ayushkumardandapat](https://leetcode.com/u/ayushkumardandapat/)
+- 🟠 **LeetCode:** Solved **200+ Problems** in Java (Arrays, Two Pointers, Trees, Graphs, Dynamic Programming, Recursion) $\to$ [leetcode.com/u/ayushkumardandapat](https://leetcode.com/u/ayushkumardandapat/)
 - 🟢 **GeeksforGeeks:** Active Problem Solver $\to$ [geeksforgeeks.org/profile/ayushkumardcypg](https://www.geeksforgeeks.org/profile/ayushkumardcypg/)
 - 📜 **Certification:** **Sigma 10.0 — Data Structures & Algorithms in Java** *(Apna College)* $\to$ [View Credential](https://github.com/AyushKumar-12345/AyushKumar-12345/raw/main/Sigma_10_DSA_Java_Certificate.pdf)
-- 🎓 **Academic Excellence:** Top percentile performance with **98.2% in Class X** and **88.6% in Class XII**.
+- 🚀 **Production Architecture:** Architected, containerized, and deployed **4 production systems** with Docker, CI/CD, and cloud hosting on Render.
+- 🎓 **Academic Excellence:** Top percentile performance with **98.2% in Class X** and **88.6% in Class XII**; Final-Year B.Tech IT student at **IIIT Bhubaneswar** (CGPA: **7.48**).
 
 ---
 
@@ -210,7 +225,7 @@
 
 <p align="center">
   <a href="mailto:ayushkumardandapat200@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ayush-kumar-97326636a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ayush-kumar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/AyushKumar-12345"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://ayush-portfolio-3yan.onrender.com"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="https://leetcode.com/u/ayushkumardandapat/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
