@@ -15,6 +15,9 @@
   <a href="https://ayush-portfolio-3yan.onrender.com"><img src="https://img.shields.io/badge/Live_Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://github.com/AyushKumar-12345/AyushKumar-12345/raw/main/Ayush_Kumar_Resume.pdf"><img src="https://img.shields.io/badge/Download_Resume_PDF-00C7B7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
   <a href="https://linkedin.com/in/ayush-kumar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center">
   <a href="https://leetcode.com/u/ayushkumardandapat/"><img src="https://img.shields.io/badge/LeetCode-200%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   <a href="https://www.geeksforgeeks.org/profile/ayushkumardcypg/"><img src="https://img.shields.io/badge/GeeksforGeeks-Active-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
   <a href="mailto:ayushkumardandapat200@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -26,15 +29,40 @@
 
 ---
 
-```
-┌────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│                                       ENGINEERING DASHBOARD                                            │
-├────────────────────────────┬────────────────────────────┬─────────────────────────┬────────────────────┤
-│     PRODUCTION SYSTEMS     │        JAVA DSA RIGOR      │     ACADEMIC RECORD     │   GENAI & AGENTS   │
-│    4 Systems Deployed      │    200+ Problems Solved    │   IIIT-Bh (CGPA: 7.48)  │ LangGraph • RAG    │
-│  (Docker • Render • CI/CD) │   (LeetCode & GFG In Java) │  Class X: 98.2% | XII: 88.6%│ pgvector • Gemini  │
-└────────────────────────────┴────────────────────────────┴─────────────────────────┴────────────────────┘
-```
+<div align="center">
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="center" width="25%">🚀 Production Systems</th>
+      <th align="center" width="25%">☕ Java DSA Rigor</th>
+      <th align="center" width="25%">🎓 Academic Record</th>
+      <th align="center" width="25%">🧠 GenAI & Agents</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <b>4 Systems Deployed</b><br/>
+        <sub>Docker • Render • CI/CD</sub>
+      </td>
+      <td align="center">
+        <b>200+ Solved in Java</b><br/>
+        <sub>LeetCode & GeeksforGeeks</sub>
+      </td>
+      <td align="center">
+        <b>IIIT-Bh (CGPA: 7.48)</b><br/>
+        <sub>Class X: 98.2% | XII: 88.6%</sub>
+      </td>
+      <td align="center">
+        <b>LangGraph & pgvector</b><br/>
+        <sub>Hybrid Search • Gemini API</sub>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 ---
 
