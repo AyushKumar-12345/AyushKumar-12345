@@ -3,11 +3,11 @@
 # 👨‍💻 Hi, I'm Ayush Kumar
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Final-Year+B.Tech+IT+%40+IIIT+Bhubaneswar+(Expected+May+2026);Full-Stack+Software+Engineer+(Java%2C+MERN%2C+Python);Applied+Generative+AI+%26+LLM+Systems+(LangGraph);Java+DSA+Problem+Solver+(200%2B+Solved);4+Production+Systems+Containerized+(Docker%2C+CI%2FCD)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Final-Year+B.Tech+IT+%40+IIIT+Bhubaneswar+(Passout+2027);Full-Stack+Software+Engineer+(Java%2C+MERN%2C+Python);Applied+Generative+AI+%26+LLM+Systems+(LangGraph);Java+DSA+Problem+Solver+(200%2B+Solved);4+Production+Systems+Containerized+(Docker%2C+CI%2FCD)" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <b>Final-Year B.Tech Information Technology Student @ IIIT Bhubaneswar (Expected May 2026)</b><br/>
+  <b>Final-Year B.Tech Information Technology Student @ IIIT Bhubaneswar (Passout: 2027)</b><br/>
   Passionate about architecting scalable full-stack web applications, autonomous agent workflows (LangGraph), and high-performance backend systems with Java DSA rigor.
 </p>
 
@@ -68,7 +68,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **Education:** Final-Year B.Tech in Information Technology at **IIIT Bhubaneswar** (Expected May 2026) | **CGPA: 7.48**
+- 🎓 **Education:** Final-Year B.Tech in Information Technology at **IIIT Bhubaneswar** (Passout: 2027) | **CGPA: 7.48**
 - 🏫 **Schooling:** Delhi Public School, Nalco Nagar, Angul — Class X: **98.2%** | Class XII: **88.6%** (2020 – 2022)
 - 💻 **Full-Stack Engineering:** Java (Core Java, OOP, Collections), JavaScript (ES6+), Python, TypeScript, SQL, React 18, Node.js, Express.js, FastAPI, Flask, Vite, Tailwind CSS, Bootstrap 5.
 - 🤖 **GenAI & Autonomous Agents:** LangGraph StateGraph orchestration ($\le 4$ bounded reasoning steps), PostgreSQL 16 + `pgvector` hybrid semantic search (HNSW indexing, 0.45 cosine cutoff), RAG pipelines, Scikit-learn, XGBoost, Split Conformal Prediction (90% confidence), Google Gemini API.
