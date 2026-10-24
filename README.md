@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://ayush-portfolio-3yan.onrender.com"><img src="https://img.shields.io/badge/Live_Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://github.com/AyushKumar-12345/AyushKumar-12345/raw/main/Ayush_Kumar_Resume.pdf"><img src="https://img.shields.io/badge/Download_Resume_PDF-00C7B7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ayush-kumar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ayush-kumar-97326636a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -69,7 +69,7 @@
 ## 🚀 About Me
 
 - 🎓 **Education:** Final-Year B.Tech in Information Technology at **IIIT Bhubaneswar** (Passout: 2027) | **CGPA: 7.48**
-- 🏫 **Schooling:** Delhi Public School, Nalco Nagar, Angul — Class X: **98.2%** | Class XII: **88.6%** (2020 – 2022)
+- 🏫 **Schooling:** Delhi Public School, Nalco Nagar, Angul — Class X: **98.2%** | Class XII: **88.6%** (2020 – 2023)
 - 💻 **Full-Stack Engineering:** Java (Core Java, OOP, Collections), JavaScript (ES6+), Python, TypeScript, SQL, React 18, Node.js, Express.js, FastAPI, Flask, Vite, Tailwind CSS, Bootstrap 5.
 - 🤖 **GenAI & Autonomous Agents:** LangGraph StateGraph orchestration ($\le 4$ bounded reasoning steps), PostgreSQL 16 + `pgvector` hybrid semantic search (HNSW indexing, 0.45 cosine cutoff), RAG pipelines, Scikit-learn, XGBoost, Split Conformal Prediction (90% confidence), Google Gemini API.
 - ☕ **DSA Rigor:** Solved **200+ problems** in **Java** across LeetCode & GeeksforGeeks.
@@ -252,7 +252,7 @@
 
 <p align="center">
   <a href="mailto:ayushkumardandapat200@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ayush-kumar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ayush-kumar-97326636a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/AyushKumar-12345"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://ayush-portfolio-3yan.onrender.com"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="https://leetcode.com/u/ayushkumardandapat/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
