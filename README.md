@@ -73,7 +73,7 @@
 - 💻 **Full-Stack Engineering:** Java (Core Java, OOP, Collections), JavaScript (ES6+), Python, TypeScript, SQL, React 18, Node.js, Express.js, FastAPI, Flask, Vite, Tailwind CSS, Bootstrap 5.
 - 🤖 **GenAI & Autonomous Agents:** LangGraph StateGraph orchestration ($\le 4$ bounded reasoning steps), PostgreSQL 16 + `pgvector` hybrid semantic search (HNSW indexing, 0.45 cosine cutoff), RAG pipelines, Scikit-learn, XGBoost, Split Conformal Prediction (90% confidence), Google Gemini API.
 - ☕ **DSA Rigor:** Solved **200+ problems** in **Java** across LeetCode & GeeksforGeeks.
-- 🛠️ **DevOps & Security:** Docker, Docker Compose, Git, GitHub Actions (CI/CD), Linux, Render, Cloudinary; Razorpay HMAC-SHA256 signature verification, `sqlglot` AST SQL guardrails, JWT role-based access control (RBAC).
+- 🛠️ **DevOps & Security:** Docker, Docker Compose, Git, GitHub Actions (CI/CD), Cloud Computing (Basics), Linux, Render, Cloudinary; Razorpay HMAC-SHA256 signature verification, `sqlglot` AST SQL guardrails, JWT role-based access control (RBAC).
 - 📍 **Location:** Bhubaneswar, Odisha, India
 
 ---
